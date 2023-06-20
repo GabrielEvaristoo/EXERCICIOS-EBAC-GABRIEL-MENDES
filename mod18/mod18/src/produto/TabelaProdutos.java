@@ -19,7 +19,7 @@ public class TabelaProdutos {
     @Coluna(nome = "Cor do Tênis", tipo = "String")
     private String corTenis;
 
-    // Propriedades da Camisa
+    
     @Coluna(nome = "Cor da Camisa", tipo = "String")
     private String corCamisa;
 
